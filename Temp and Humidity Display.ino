@@ -1,5 +1,5 @@
 #include <LiquidCrystal.h>  // Include LiquidCrystal Library
-#include <dht.h>   // Include DHTlib Library- Download from Description.
+#include <dht.h>   // Include DHTlib Library
 
 #define outPin 2
 
